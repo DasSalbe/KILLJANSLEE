@@ -1,0 +1,24 @@
+html,
+
+body {
+    background-image: linear-gradient(15deg, #ff3e30, #c70d00, #3b0400);
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+ul {
+    text-align: left;
+    list-style-position: inside;
+}
+
+#WHATDIDSHEDO {
+    text-align: left;
+    transform: translateX(195px)
+}
+#Ew1 {
+    transform: scale(40%)
+    translate(20%, -130%);
+}
+#Ew1cap {
+    transform: translate(17%,-1350%);
+}
